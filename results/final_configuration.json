@@ -1,0 +1,20 @@
+{
+  "model": "Heavy Hybrid — Step 41",
+  "threshold": 0.72,
+  "test_accuracy": 0.903027,
+  "test_precision": 0.159853,
+  "test_recall": 0.179876,
+  "test_f1": 0.169275,
+  "test_roc_auc": 0.708263,
+  "test_pr_auc": 0.119428,
+  "TN": 133972,
+  "FP": 7789,
+  "FN": 6757,
+  "TP": 1482,
+  "features": 15,
+  "fraud_type_excluded": true,
+  "temporal_split": true,
+  "meta_model_OOF": true,
+  "threshold_validation_only": true,
+  "test_tuning": false
+}

@@ -1,0 +1,5 @@
+Actual,Predicted,Count
+Non-Fraud,Non-Fraud,133972
+Non-Fraud,Fraud,7789
+Fraud,Non-Fraud,6757
+Fraud,Fraud,1482

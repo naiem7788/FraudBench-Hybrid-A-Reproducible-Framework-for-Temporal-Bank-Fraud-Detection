@@ -1,0 +1,3 @@
+Model	Threshold	Test Accuracy	Test Precision	Test Recall	Test F1	Test ROC-AUC	Test PR-AUC	TN	FP	FN	TP	Features
+Heavy Hybrid	0.72	0.903027	0.159853	0.179876	0.169275	0.708263	0.119428	133972	7789	6757	1482	15
+
