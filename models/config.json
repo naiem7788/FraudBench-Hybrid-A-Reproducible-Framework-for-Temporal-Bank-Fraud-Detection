@@ -1,0 +1,23 @@
+{
+    "model": "Lightweight LightGBM",
+    "threshold": 0.6,
+    "num_features": 15,
+    "features": [
+        "hour_of_day",
+        "is_weekend",
+        "is_night_transaction",
+        "country",
+        "city",
+        "merchant_category",
+        "payment_method",
+        "device_type",
+        "customer_age",
+        "credit_score",
+        "account_age_years",
+        "account_balance",
+        "transaction_amount",
+        "distance_from_home_km",
+        "is_international"
+    ],
+    "random_state": 42
+}
